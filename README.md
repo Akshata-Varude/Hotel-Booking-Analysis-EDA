@@ -13,7 +13,8 @@ By applying Exploratory Data Analysis principles and feature engineering, this s
 
 In this project, we were provided a dataset containing booking information about two types of hotels and various other related booking criteria. This dataset contains a total rows 119390 and 32 columns. This dataset contains many features like hotel: Name of hotel ( City or Resort), is_canceled: Whether the booking is canceled or not, arrival_date: date, months, year, week of arrival, stays_in_weekend_nights, stays_in_week_nights, number of members adults, children, babies, Meal, country of customer belongs, market_segment: What segment via booking was made and for what purpose, distribution_channel: Via which medium booking was made, is_repeated_guest: Whether the customer has made any booking before, and many booking related features.
 
-The first step of the approach involved Data Exploration and Inspection of the raw data. The second step involved Data Cleaning by handling null values, dropping irrelevant columns and rows, and removing duplicate values that can help in better decision support. The final step involved performing a comprehensive data analysis over clean data to analyze the factors that affect hotel bookings and creating Data Visualization for the same.
+The first step of the approach involved Data Exploration and Inspection of the raw data. The second step involved Data Cleaning by handling null values, dropping irrelevant columns and rows, and removing duplicate values that can help in better decision support. The final step involved performing a comprehensive data analysis over clean data to analyze the factors that affect hotel bookings and creating Data Visualization for the same.      
+For complete project video explaination and to downoad the dataset: https://drive.google.com/drive/folders/1a1SUsoeLTnD6FKdaSRqDJeWrLk5S_7YN?usp=drive_link
 
 # LIBRARIES USED
 
